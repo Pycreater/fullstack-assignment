@@ -4,8 +4,9 @@
   "description": "full stack - assignment",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon dist/index.js",
-    "c": "tsc -b",
+    "build": "tsc -b",           
+    "serve": "nodemon dist/index.js",  
+    "dev": "npm run build && npm run serve", 
     "format": "prettier --write \"src/**/*.ts\""
   },
   "keywords": [
