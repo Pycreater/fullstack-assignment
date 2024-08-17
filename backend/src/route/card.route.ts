@@ -9,6 +9,6 @@ const router = Router();
 
 router.route('/').get(getAllCards);
 router.route('/').post(addCard);
-router.route('/:title').post(getByTitle);
+router.route('/:title').get(getByTitle);
 
 export { router };
