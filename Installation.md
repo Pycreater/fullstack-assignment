@@ -137,3 +137,5 @@ Open the application in your browser at `http://localhost:5173/`.
 ---
 
 ## Screenshots
+![Screenshot (195)](https://github.com/user-attachments/assets/67cd2396-1ea2-4584-a3d2-876ade4673b1)
+![Screenshot (194)](https://github.com/user-attachments/assets/5228fbf8-d404-442a-b1f4-42ac162165cf)
